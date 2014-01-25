@@ -22,10 +22,5 @@ class JukeBox
     playlist[index]
   end
 
-  def add(song)
-
-    @playlist << song
-  end
-
+  
  end
-
