@@ -1,0 +1,3 @@
+[1/25/14 5:27:21 PM] kxhitiz: Weekend Assignment
+Worker has attributes name, age, test_scores & gender.  And is associated to Address which stored country, city and zipcode. test_scores accepts array of score for individual tests. A person is only able to be cloudworker if he is from within kathmandu valley, age greater than 18 & average score of 80. Try to use mixin for eligibility calculation purpose. Code should be pushed to github.
+[1/25/14 5:28:01 PM] kxhitiz: Deadline: Next Friday ( 31st Jan )
